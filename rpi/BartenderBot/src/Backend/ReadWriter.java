@@ -19,9 +19,9 @@ public class ReadWriter {
 	 * Paths for my different dev environments
 	 */
 	private final String piPath ="/root/BartenderBot/Data/";
-	private final String laptopPath = "C:/Users/Blackbox/workspace/BartenderBot/";
-	private final String pcPath ="X:/Users/Adam/workspace/BartenderBot/";
-	private final String path = laptopPath;
+	private final String laptopPath = "/";
+	private final String pcPath ="/";
+	private final String path = piPath;
 	
 	public ReadWriter(){
 		
