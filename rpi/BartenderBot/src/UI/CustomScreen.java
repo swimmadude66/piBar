@@ -38,7 +38,7 @@ public class CustomScreen extends JPanel {
 	/**
 	 * Create the panel.
 	 */
-	private final boolean DEBUG = true;
+	private final boolean DEBUG = false;
 	final Control cont;
 	final JFrame parent;
 	public int w;
